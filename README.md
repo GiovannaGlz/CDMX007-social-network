@@ -57,124 +57,71 @@ _Conociendo a los usuarios_
 
 `Edad de los usuarios`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/edad_usuarios.png)
-=======
 ![screen](https://i.ibb.co/KzztF7y/edad-usuarios.png)
->>>>>>> upstream/master
  
 
  La edad de los 54 encuestados oscila entre los 26 y los 36 años.
 
 `Género de los usuarios`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/género_usuarios.png)
-
-=======
 ![screen](https://i.ibb.co/yBQSRJy/g-nero-usuarios.png)
->>>>>>> upstream/master
 
 Entre nuestros encuestados es mayor el procentaje de mujeres. 
 
 
 `Ocupación de los usuarios`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/ocupación_tabla.png)
--![screen](/imágenes/estadísticas/ocupación2.png)
-
-=======
 ![screen](https://i.ibb.co/7yTj6zh/ocupaci-n-tabla.png)
 ![screen](https://i.ibb.co/4gxxzpz/ocupaci-n2.png)
->>>>>>> upstream/master
 
 Un porcentaje alto de nuestros encuestados forma parte de la Población Económicamente Activa, mientras que otro procentaje menor, pero igualmente significativo son estudiantes de distintas ciencias.
 
 
 `Uso de redes sociales`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/uso_redes.png)
-
-=======
 ![screen](https://i.ibb.co/G5h2vtJ/uso-redes.png)
->>>>>>> upstream/master
 
 De la totalidad de encuestados el 96.3% dijo que sí utiliza alguna red social.
 
 
 `Actividad realizada en redes sociales`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/actividad_realizada.png)
-
-=======
 ![screen](https://i.ibb.co/2WbVhwF/actividad-realizada.png)
->>>>>>> upstream/master
 
 Una de las preguntas de nuestra encuesta está dirigida a saber cuáles son las actividades que los usuarios de las Redes Sociales, la información recabada señala que el 55.6% acostumbra leer artículos informativos sobre temas de interés particular.
 
 
 `Tema de red social`
 
-<<<<<<< HEAD
--![screen](/imágenes/estadísticas/tema_redsocial.png)
-
-=======
 ![screen](https://i.ibb.co/qpF41VN/tema-redsocial.png)
->>>>>>> upstream/master
 
 Buscamos conocer más sobre los intereses de nuestros usuarios, porque se les pregunto _"Si pudieran elegir alguno, ¿Qué enfoque le darían a una red social?"_ a lo que el 40.7% señalo que le darían un enfoque educativo, el 20.4% sobre energías renovables y el 18.5% sobre salud.
 
 
 `Contactos más frecuentes`
 
-<<<<<<< HEAD
--![screen](/imágenes/estadísticas/contactos_frecuentes.png)
-
-=======
 ![screen](https://i.ibb.co/TMprKVd/contactos-frecuentes.png)
->>>>>>> upstream/master
 
 Entre los contactos más frecuentes, nuestros encuestados señalaron tener en su mayoría a amigos, personas de su confíanza y con quienes tienen contacto face to face.
 
 
 `Lo que más te gusta`
 
-<<<<<<< HEAD
-
--![screen](/imágenes/estadísticas/mas_agrada.png)
-=======
 ![screen](https://i.ibb.co/mBxBGRV/mas-agrada.png)
 
->>>>>>> upstream/master
 La característica que parece más atractiva a las usuarios encuestados es el poder compartir información en tiempo real, como notas informativas, comunicarse con otros y la facilidad para difundir masivamente. La segunda característica más atractiva es la conexión que existe con personas que están a una gran distancia geográfica.
 
 
 `Lo que más desagrada`
 
-<<<<<<< HEAD
--![screen](/imágenes/estadísticas/desagrada.png)
-=======
 ![screen](https://i.ibb.co/PC8hDFc/desagrada.png)
->>>>>>> upstream/master
 
 Como era de esperarse, no todas las características de las redes sociales son agradables para sus usuarios. En esta encuesta, los usuarios señalaron con frecuencia que no les agrada es que pueden llegar a encontrar información falsa que se difunde de forma indiscriminada, desearía poder comprobar la veracidad de la información.
 
 
 `Red de más uso`
 
-<<<<<<< HEAD
--![screen](/imágenes/estadísticas/mas_uso.png)
-=======
 ![screen](https://i.ibb.co/28ZhGm2/mas-uso.png)
->>>>>>> upstream/master
 
 La tercera parte de nuestros encuestados señala hacer un mayor uso de Facebook, por encima de otras redes sociales, ya que les parece fácil de usar; por la capacidad de conectar a más personas; porque es fácil compartir información de todo tipo sin límite de carácteres; porque permite hacer redes en distintos círculos sociales, como el laboral; porque tiene contenido entretenido para todos los gustos y porque es de las más popolares.
 
@@ -183,13 +130,7 @@ A partir de la encuesta realizada y el análisis de la información recabada en 
 
 _Usuario modelo_
 
-<<<<<<< HEAD
-
--![screen](/imágenes/cmp.jpg) 
-
-=======
 ![screen](https://i.ibb.co/ss5G8tL/cmp.jpg) 
->>>>>>> upstream/master
 
 Luis Fonseca es un joven de 26 años que trabaja como ayudante general en una empresa de transporte; ya lleva en este lugar un par de años y le gustaría mejorar su calidad de vida ascendiendo a un puesto mejor, cuenta con el respaldo de su jefe, sin embargo, le ha pedido que se prepare en ciertos aspectos que le darán las herramientas necesarias para desempeñar sus nuevas actividades, le ha sugerido tomar un diplomado o un curso, pero Luis no tiene los recursos econímicos para pagar un diplomado y tampoco cuenta con tiempo suficiente, además le es más fácil aprender por su cuenta. Después de mucho meditarlo, ha encontrado que lo que más le conviene es tomar cursos en línea de lo que nececesite, pues son específicos, concisos y actuales; ademaás de esto,le permíte laborar y manejar sus tiempos de una forma accesible y económica.
 
@@ -231,25 +172,15 @@ En cada publicación aparecerá un botón que permitirá eliminar la publicació
 
 `Prototipo de baja fidelidad:`
  
-<<<<<<< HEAD
- -![baja fidelidad](/imágenes/bajaf1.png) 
-=======
  -![baja fidelidad](https://i.ibb.co/k1WvrVK/bajaf1.png) 
->>>>>>> upstream/master
 
 [Prototipo de baja fidelidad](https://marvelapp.com/3ecjfjh/screen/54082219)
 
 `Prototipo de alta fidelidad:`
-<<<<<<< HEAD
--![alta_fidelidad](/imágenes/alta_fidelidad/galaxyS5.png)
-
-[Prototipo de alta fidelidad](https://marvelapp.com/5daa2ei/screen/54793952)
-=======
 Después de testear el producto con usuarios interesados en la aplicación, ellos eligieron el color verde que asociaban con aprendizaje, se agregó un logo para  que la aplicación se reconozca fácilmente y se asocie, se probaron distintas propuestas y esta que se presenta fue la más aceptada; se agregó un menú desplegable en la que se pueden los datos más importantes de cada usuario, se optó por un muro en el que se pueden observar todos los mensajes, así como la posibilidad de editar y eliminar los mensajes cunado el usuario lo desee.   
 -![alta_fidelidad](https://i.ibb.co/r2MLz4z/PA.jpg)
 
 [Prototipo de alta fidelidad](https://marvelapp.com/5daa2ei/screen/54794088)
->>>>>>> upstream/master
 
 ### Herramientas
 
