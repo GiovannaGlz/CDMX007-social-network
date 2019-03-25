@@ -57,32 +57,45 @@ _Conociendo a los usuarios_
 
 `Edad de los usuarios`
 
+
 -![screen](/imágenes/estadísticas/edad_usuarios.png)
  
+
  La edad de los 54 encuestados oscila entre los 26 y los 36 años.
 
 `Género de los usuarios`
 
+
 -![screen](/imágenes/estadísticas/género_usuarios.png)
+
 
 Entre nuestros encuestados es mayor el procentaje de mujeres. 
 
+
 `Ocupación de los usuarios`
+
 
 -![screen](/imágenes/estadísticas/ocupación_tabla.png)
 -![screen](/imágenes/estadísticas/ocupación2.png)
 
+
 Un porcentaje alto de nuestros encuestados forma parte de la Población Económicamente Activa, mientras que otro procentaje menor, pero igualmente significativo son estudiantes de distintas ciencias.
+
 
 `Uso de redes sociales`
 
+
 -![screen](/imágenes/estadísticas/uso_redes.png)
+
 
 De la totalidad de encuestados el 96.3% dijo que sí utiliza alguna red social.
 
+
 `Actividad realizada en redes sociales`
 
+
 -![screen](/imágenes/estadísticas/actividad_realizada.png)
+
 
 Una de las preguntas de nuestra encuesta está dirigida a saber cuáles son las actividades que los usuarios de las Redes Sociales, la información recabada señala que el 55.6% acostumbra leer artículos informativos sobre temas de interés particular.
 
@@ -91,24 +104,34 @@ Una de las preguntas de nuestra encuesta está dirigida a saber cuáles son las 
 
 -![screen](/imágenes/estadísticas/tema_redsocial.png)
 
+
 Buscamos conocer más sobre los intereses de nuestros usuarios, porque se les pregunto _"Si pudieran elegir alguno, ¿Qué enfoque le darían a una red social?"_ a lo que el 40.7% señalo que le darían un enfoque educativo, el 20.4% sobre energías renovables y el 18.5% sobre salud.
 
+
 `Contactos más frecuentes`
+
 -![screen](/imágenes/estadísticas/contactos_frecuentes.png)
+
 
 Entre los contactos más frecuentes, nuestros encuestados señalaron tener en su mayoría a amigos, personas de su confíanza y con quienes tienen contacto face to face.
 
+
 `Lo que más te gusta`
+
 
 -![screen](/imágenes/estadísticas/mas_agrada.png)
 La característica que parece más atractiva a las usuarios encuestados es el poder compartir información en tiempo real, como notas informativas, comunicarse con otros y la facilidad para difundir masivamente. La segunda característica más atractiva es la conexión que existe con personas que están a una gran distancia geográfica.
 
+
 `Lo que más desagrada`
+
 -![screen](/imágenes/estadísticas/desagrada.png)
 
 Como era de esperarse, no todas las características de las redes sociales son agradables para sus usuarios. En esta encuesta, los usuarios señalaron con frecuencia que no les agrada es que pueden llegar a encontrar información falsa que se difunde de forma indiscriminada, desearía poder comprobar la veracidad de la información.
 
+
 `Red de más uso`
+
 -![screen](/imágenes/estadísticas/mas_uso.png)
 
 La tercera parte de nuestros encuestados señala hacer un mayor uso de Facebook, por encima de otras redes sociales, ya que les parece fácil de usar; por la capacidad de conectar a más personas; porque es fácil compartir información de todo tipo sin límite de carácteres; porque permite hacer redes en distintos círculos sociales, como el laboral; porque tiene contenido entretenido para todos los gustos y porque es de las más popolares.
@@ -118,7 +141,9 @@ A partir de la encuesta realizada y el análisis de la información recabada en 
 
 _Usuario modelo_
 
+
 -![screen](/imágenes/cmp.jpg) 
+
 
 Luis Fonseca es un joven de 26 años que trabaja como ayudante general en una empresa de transporte; ya lleva en este lugar un par de años y le gustaría mejorar su calidad de vida ascendiendo a un puesto mejor, cuenta con el respaldo de su jefe, sin embargo, le ha pedido que se prepare en ciertos aspectos que le darán las herramientas necesarias para desempeñar sus nuevas actividades, le ha sugerido tomar un diplomado o un curso, pero Luis no tiene los recursos econímicos para pagar un diplomado y tampoco cuenta con tiempo suficiente, además le es más fácil aprender por su cuenta. Después de mucho meditarlo, ha encontrado que lo que más le conviene es tomar cursos en línea de lo que nececesite, pues son específicos, concisos y actuales; ademaás de esto,le permíte laborar y manejar sus tiempos de una forma accesible y económica.
 
@@ -167,7 +192,7 @@ En cada publicación aparecerá un botón que permitirá eliminar la publicació
 `Prototipo de alta fidelidad:`
 -![alta_fidelidad](/imágenes/alta_fidelidad/galaxyS5.png)
 
-[Prototipo de alta fidelidad](https://marvelapp.com/project/3871526/)
+[Prototipo de alta fidelidad](https://marvelapp.com/5daa2ei/screen/54793952)
 
 ### Herramientas
 
